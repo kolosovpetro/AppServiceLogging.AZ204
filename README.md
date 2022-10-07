@@ -68,4 +68,9 @@ builder.Host
     });
 ```
 
+### 6. Sources
+
+- https://learn.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-6.0
+- https://medium.com/swlh/how-to-configure-azure-web-app-logging-with-net-5-786918eb2ff3
+
 
